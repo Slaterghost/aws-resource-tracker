@@ -3,3 +3,5 @@
 *.log
 *.txt
 .viminfo
+current_state.txt
+last_state.txt
