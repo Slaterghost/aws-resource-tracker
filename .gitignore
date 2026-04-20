@@ -1,3 +1,5 @@
 .aws/
 .git-credentials
 *.log
+*.txt
+.viminfo

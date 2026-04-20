@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AWS Resource Tracker
 
 Shell script to monitor AWS resources using AWS CLI.
